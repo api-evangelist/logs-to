@@ -39,7 +39,6 @@ apis:
   - name: Logs.to
     description: "Generate logs"
     humanURL: https://logs.to/
-    baseURL: https://logs.to/
     tags:
       - Development
     properties:
